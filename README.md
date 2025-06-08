@@ -102,6 +102,7 @@ Matched to vibe keywords in vibes_list.json.
 ├── README.md              # You're here!
 ├── requirements.txt       # All dependencies
 └── demo.mp4 / Loom link   # Demo video of working pipeline
+![image](https://github.com/user-attachments/assets/76a40f69-ba92-460b-94a7-3c2a78628e88)
 
 ⚙️ Setup Instructions:
 
