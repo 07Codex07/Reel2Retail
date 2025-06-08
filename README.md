@@ -66,19 +66,11 @@ Items are grouped by reel.
 Output saved as /outputs/reel_XXX.json.
 
 Each contains:
-{
-  "video_id": "reel_001",
-  "vibes": ["Clean Girl", "Boho"],
-  "products": [
-    {
-      "type": "Top",
-      "color": "Pink",
-      "matched_product_id": "15592",
-      "match_type": "similar",
-      "confidence": 0.78
-    }
-  ]
-}
+
+
+![image](https://github.com/user-attachments/assets/3e432846-e5f4-4ac7-9c05-6aaba1d353d5)
+
+
 
 6. Vibe Classification:
 
@@ -87,22 +79,13 @@ Keywords are extracted from title + description + tags.
 Matched to vibe keywords in vibes_list.json.
 
 
+Folder Structure:
 
- Folder Structure:
- submission/
-├── videos/                # Input videos & cropped visuals
-├── catalog.csv            # Provided fashion catalog
-├── vibes_list.json        # Fashion aesthetics keyword dictionary
-├── outputs/               # Final result JSONs per video
-│   ├── reel_001.json
-│   └── match_results
-├── models/                # Trained detection model + CLIP code
-│   ├── yolov8n.pt
-│   └── flickd_code.ipynb
-├── README.md              # You're here!
-├── requirements.txt       # All dependencies
-└── demo.mp4 / Loom link   # Demo video of working pipeline
+
+ 
 ![image](https://github.com/user-attachments/assets/76a40f69-ba92-460b-94a7-3c2a78628e88)
+
+
 
 ⚙️ Setup Instructions:
 
