@@ -90,18 +90,21 @@ Folder Structure:
 ⚙️ Setup Instructions:
 
 1. Clone the Repo:
-   git clone <your-repo-url>
+   git clone <your-repo-url> 
+
    cd submission/
 
-2. Create Environment:
+3. Create Environment:
    pip install -r requirements.txt
 
-3. Run Catalog Embedding:
+4. Run Catalog Embedding:
    python embed_catalog.py #(builds catalog.index)
 
-4. Process Videos:
+5. Process Videos:
    python detect_and_crop.py
+
    python match_with_catalog.py
+
    python classify_vibes.py
 
     Credits:
