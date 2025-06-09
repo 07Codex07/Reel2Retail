@@ -1,4 +1,4 @@
-# AI-powered image recognition at a glance.
+# From viral reels to virtual carts."
 🌟 Project Title:
 
 Flicked Fashion AI - Detect, Match & Classify Fashion in Reels
