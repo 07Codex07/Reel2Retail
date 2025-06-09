@@ -107,6 +107,28 @@ Folder Structure:
 
    python classify_vibes.py
 
+
+
+While many may just detect clothes and match them, I focused on real-world usability:
+
+1 My catalog embeddings are reused — saving time on every run.
+
+2 My vibe classifier uses natural language from real product data, not just class labels.
+
+3 My final outputs are JSON-ready — meaning this is production-ready for downstream use in ecommerce, tagging, or marketing.
+
+4 I also set this up for scalability, and I already have plans for product-level APIs.
+
+
+My vision is to turn this into a fashion-aware browser extension or Instagram plug-in that lets users:
+
+1 Tap on an outfit in a reel → get links to buy the same or similar items.
+
+2 Upload 2–3 pictures → get smart suggestions with vibes + products from live eCommerce APIs.
+
+3 Brands could use this to analyze trends from user-generated content in real time.
+  
+    
     Credits:
 
 Built by Vinayak
