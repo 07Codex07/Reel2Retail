@@ -1,4 +1,4 @@
-# flicked_hackthon
+# AI-powered image recognition at a glance.
 🌟 Project Title:
 
 Flicked Fashion AI - Detect, Match & Classify Fashion in Reels
